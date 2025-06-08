@@ -1,6 +1,6 @@
 # 👋 Hi There — I'm Will (aka CryptoW1ll)
 
-Welcome to my GitHub profile! I'm passionate about game development, tech innovation, and continuous learning. I love collaborating on exciting projects, building interactive experiences, and diving into new technologies.
+Welcome to my GitHub profile! I'm passionate about game development, tech innovation, and continuous learning and development. I enjoy collaborating on exciting projects, building interactive experiences, and diving into new technologies.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cryptoW1ll)
 
@@ -21,17 +21,17 @@ Welcome to my GitHub profile! I'm passionate about game development, tech innova
 
 - 🎮 **Unity Developer** focused on gameplay systems, physics, and AI.
 - 💻 Proficient in **C#** and the Unity ecosystem, with a strong foundation in game architecture.
-- 🔍 Passionate about performance optimization, clean code, and player experience.
-- 🌱 Exploring **Web3** and **Blockchain** integrations in interactive applications.
+- 🔍 Passionate about clean code, and player experience and innovation.
+- 🌱 Exploring performance optimisation, **Web3** and **Blockchain** integrations in interactive applications.
 - 🛠️ Also experienced with **React**, **Node.js**, and **Python** for full-stack development.
-- 🔧 Tech Stack: Unity, C#, Git, Shader programming, and more.
+- 🔧 Tech Stack: Unity, C#, Git, and more.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Project Name](https://github.com/cryptoW1ll/project-repo-name)
-*A Unity game featuring [describe unique features]* — built using C#, Unity, and Photon for real-time multiplayer.
+### 🔹 [Project Name](https://github.com/CryptoW1ll/FATF)
+*A Unity game featuring [describe unique features]* — built using C#, Unity, and assets by Synty Studio.
 
 ![Project Preview](https://raw.githubusercontent.com/cryptoW1ll/project-repo-name/main/preview.gif)
 
@@ -59,8 +59,6 @@ Welcome to my GitHub profile! I'm passionate about game development, tech innova
 - 🌀 **Unity Advanced**: Scriptable Render Pipeline (SRP), Shader Graph, and DOTS.
 - 🤖 **AI Programming**: Behavior Trees, Utility AI, and state machines for NPCs.
 - 🌐 **Multiplayer**: Photon, Mirror, and Netcode for GameObjects.
-- 💎 **Web3 Development**: Smart contract interaction and blockchain integration.
-- 📱 **Mobile Development**: Learning Flutter for cross-platform apps.
 
 ---
 
