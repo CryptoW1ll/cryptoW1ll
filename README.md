@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about game development, tech innova
 
 ## 🚀 Featured Projects
 
-### 🔹 [Project Name](https://github.com/CryptoW1ll/FATF)
+### 🔹 [Fugitive Apprehension Task Force](https://github.com/CryptoW1ll/FATF)
 *A Unity game featuring [describe unique features]* — built using C#, Unity, and assets by Synty Studio.
 
 ![Project Preview](https://raw.githubusercontent.com/cryptoW1ll/project-repo-name/main/preview.gif)
